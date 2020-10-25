@@ -36,4 +36,3 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, or have a question, please do not hesitate to contact me even for a moment.</b> :)</em>
 
-📫 Reach Me on: <a href="nishdubb11@gmail.com">nishdubb11@gmail.com</a>
