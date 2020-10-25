@@ -10,6 +10,7 @@
 <!--
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="380" height="320" />-->
 
+<br>
 
 - 💻 Full Stack Web developer / Designer / Student
 - 🌱 I’m currently learning ReactJs
