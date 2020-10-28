@@ -17,8 +17,12 @@
 - 📝[Resume](https://docs.google.com/document/d/1CTiUvPGUMO92scMNu0UfiXHL4Lgp3awiv_MdImJjOv4/edit)
 
 <br>
+<p align="center">
+  
+**Languages and Tools:**
 
-**Languages and Tools:**  
+</p>
+  
 <p align="center">
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
