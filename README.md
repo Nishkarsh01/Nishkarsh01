@@ -3,10 +3,12 @@
 <h3 align="center">I'm a Full Stack Web developer / Designer / Student based in Kullu, H.P., India. I have a passion for web development and I make elegantly professional web apps for a living.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>
 
+<p align="center">
+
 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=green&url=http%3A%2F%2Fnishkarshdubb-fullstack.herokuapp.com%2F)](http://nishkarshdubb-fullstack.herokuapp.com/)
 ![Github Follower](https://img.shields.io/github/followers/Nishkarsh01?label=Github%20Followers&style=for-the-badge)
-<!--
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="380" height="320" />-->
+
+</p>
 
 <br>
 
