@@ -29,5 +29,6 @@
 <code><img height="40" width= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" width= "40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
 </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, or have a question, please do not hesitate to contact me.</b> :)</em>
+
+<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <h3 align="center"> <b>I love connecting with different people</b> so if you want to say <b>hi, or have a question, please do not hesitate to contact me.</b></h3> :)</p>
 
