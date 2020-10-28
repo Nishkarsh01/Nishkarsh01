@@ -5,8 +5,8 @@
 
 <br>
 
-- 💻 Full Stack Web developer / Designer / Student  [![Website](https://img.shields.io/website?style=for-the-badge&up_color=green&url=http%3A%2F%2Fnishkarshdubb-fullstack.herokuapp.com%2F)](http://nishkarshdubb-fullstack.herokuapp.com/)
-
+- 🌐 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=green&url=http%3A%2F%2Fnishkarshdubb-fullstack.herokuapp.com%2F)](http://nishkarshdubb-fullstack.herokuapp.com/)
+- 💻 Full Stack Web developer / Designer / Student 
 - 🌱 I’m currently learning ReactJs
 - 💬 If you need any kind of help, please do not hesitate and contact me
 - 📫 Reach Me on: <a href="nishdubb11@gmail.com">nishdubb11@gmail.com</a>
