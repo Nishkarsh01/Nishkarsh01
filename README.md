@@ -1,7 +1,7 @@
-<h2> Hi, I'm Nishkarsh Dubb! <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47p1lcljo9i8u8ycx1joycd81n3jmtcmcfrpzeplsf&rid=giphy.gif" width="100"></h2>
+<h1 align="center"> Hi, I'm Nishkarsh Dubb! <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47p1lcljo9i8u8ycx1joycd81n3jmtcmcfrpzeplsf&rid=giphy.gif" width="100"></h1>
 <br>
-<p><em>I'm a Full Stack Web developer / Designer / Student based in Kullu, H.P., India. I have a passion for web development and I make elegantly professional web apps for a living.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h3 align="center">I'm a Full Stack Web developer / Designer / Student based in Kullu, H.P., India. I have a passion for web development and I make elegantly professional web apps for a living.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</h3>
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=green&url=http%3A%2F%2Fnishkarshdubb-fullstack.herokuapp.com%2F)](http://nishkarshdubb-fullstack.herokuapp.com/)
 ![Github Follower](https://img.shields.io/github/followers/Nishkarsh01?label=Github%20Followers&style=for-the-badge)
@@ -17,11 +17,6 @@
 - 📝[Resume](https://docs.google.com/document/d/1CTiUvPGUMO92scMNu0UfiXHL4Lgp3awiv_MdImJjOv4/edit)
 
 <br>
-<p align="center">
-  
-**Languages and Tools:**
-
-</p>
   
 <p align="center">
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
