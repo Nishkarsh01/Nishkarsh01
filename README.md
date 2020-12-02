@@ -5,15 +5,15 @@
 
 <br>
 
-
+<center>
 - 🌐 [Website](http://nishkarshdubb-fullstack.herokuapp.com/)
 - 💻 Full Stack Web developer / Designer / Student 
 - 🌱 I’m currently learning ReactJs
 - 💬 If you need any kind of help, please do not hesitate and contact me
 - 📫 Reach Me on: <a href="nishdubb11@gmail.com">nishdubb11@gmail.com</a>
 - 📝[Resume](https://docs.google.com/document/d/1CTiUvPGUMO92scMNu0UfiXHL4Lgp3awiv_MdImJjOv4/edit)
-
-<br>
+  
+</center>
   
 
 
