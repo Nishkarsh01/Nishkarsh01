@@ -5,13 +5,13 @@
   <br />
   <br />
   <div align="center">
-    <a href="https://www.linkedin.com/in/nishkarsh-dubb/" target ="_blank">Linkedin</a>
+    <a href="https://www.linkedin.com/in/nishkarsh-dubb/" target="_blank">Linkedin</a>
     ·
-    <a href="http://nishkarshdubb.herokuapp.com/" target ="_blank">Website</a>
+    <a href="http://nishkarshdubb.herokuapp.com/" target="_blank">Website</a>
     ·
-    <a href="https://twitter.com/DubbNishkarsh" target ="_blank">Twitter</a>
+    <a href="https://twitter.com/DubbNishkarsh" target="_blank">Twitter</a>
     ·
-    <a href="mailto:nishdubb11@gmail.com" target ="_blank">Email</a>
+    <a href="mailto:nishdubb11@gmail.com" target="_blank">Email</a>
   </div>
     
 </h3>
