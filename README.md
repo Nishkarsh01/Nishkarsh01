@@ -4,7 +4,7 @@
   
   <br />
   <br />
-  <div style=" margin: 0 auto;">
+  <div align="center">
     <a href="https://www.linkedin.com/in/nishkarsh-dubb/">Linkedin</a>
     ·
     <a href="http://nishkarshdubb.herokuapp.com/">Website</a>
