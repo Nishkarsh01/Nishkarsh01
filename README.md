@@ -4,7 +4,7 @@
   
   <br />
   <br />
-  <span style=" margin: 0 auto;">
+  <div style=" margin: 0 auto;">
     <a href="https://www.linkedin.com/in/nishkarsh-dubb/">Linkedin</a>
     ·
     <a href="http://nishkarshdubb.herokuapp.com/">Website</a>
@@ -12,7 +12,7 @@
     <a href="https://twitter.com/DubbNishkarsh">Twitter</a>
     ·
     <a href="mailto:nishdubb11@gmail.com">Email</a>
-  </span>
+  </div>
     
 </h3>
 
