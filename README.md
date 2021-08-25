@@ -1,8 +1,9 @@
 <h1 align="center"> Hi, I'm Nishkarsh Dubb!</h1>
 <br>
-<h3 >Hey There, I'm Nishkarsh Dubb and I am a Software Development Student currently studying at Mohawk College, Ontario, Canada. I have always been curious about latest technologies and I love to explore new opportunities.  <br /> Let's get in touch.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 >Hey There, I'm Nishkarsh Dubb and I am a Software Development Student currently studying at Mohawk College, Ontario, Canada. I have always been curious about latest technologies and I love to explore new opportunities. 
+<br>
+<div align="center"> Let's get in touch.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </div>
   
-  <br />
   <br />
   <div align="center">
     <a href="https://www.linkedin.com/in/nishkarsh-dubb/" target="_blank">Linkedin</a>
