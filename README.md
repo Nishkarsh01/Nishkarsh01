@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Nishkarsh Dubb!</h1>
 <br>
-<h3 >Hey There, I'm Nishkarsh Dubb and I am a Software Development Student at Mohawk College. I have always been curious about the latest technologies and I love to explore new opportunities. 
+<h3 >Hi There, I'm Nishkarsh Dubb and I am a Software Development Student at Mohawk College. I have always been curious about the latest technologies and I love to explore new opportunities. 
 <br>
 <div align="center"> Let's get in touch.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </div>
   
