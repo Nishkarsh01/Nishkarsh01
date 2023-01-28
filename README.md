@@ -8,7 +8,7 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/nishkarsh-dubb/" target="_blank">Linkedin</a>
     ·
-    <a href="https://nishkarsh01.github.io/nishkarshdubb-portfoliowebsite3/" target="_blank">Website</a>
+    <a href="https://nishkarshdubb.com/" target="_blank">Website</a>
     ·
     <a href="https://twitter.com/DubbNishkarsh" target="_blank">Twitter</a>
     ·
