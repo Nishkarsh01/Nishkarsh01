@@ -1,6 +1,5 @@
-<h1 align="center"> Hi, I'm Nishkarsh Dubb!</h1>
-<br>
-<h3> Hi! My name is Nishkarsh Dubb, and I am a Software Engineering student at Mohawk College. I am currently enrolled in the Computer Systems Technology- Software Development (559) program (4th Semester).
+
+  <h2 align="center">Hi, I'm Nishkarsh Dubb- A Java/UI Developer</h2>
 <br>
 <div align="center"> Let's get in touch.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </div>
   
