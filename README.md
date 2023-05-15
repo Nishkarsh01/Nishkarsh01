@@ -1,5 +1,5 @@
 
-  <h2 align="center">Hi, I'm Nishkarsh Dubb- A Java/UI Developer</h2>
+  <h2 align="center">Hi, I'm Nishkarsh Dubb- A software development student at Mohawk</h2>
 <br>
 <div align="center"> Let's get in touch.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </div>
   
