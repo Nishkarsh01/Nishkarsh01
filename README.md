@@ -15,7 +15,7 @@ const nishkarsh = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                       exPresident: "The New Developers Club, Mohawk CodeReady Club",
-                      speaker/host: "The New Comers Collision Event @ Redefined NPO",
+                      host: "The New Comers Collision Event @ Redefined NPO",
                       mentor: "CodeReady Hackathon @ Mohawk College"
                       },
   challenge: "I am doing the #100DaysOfCode challenge, focusing on design patterns with Java and Spring Boot."
